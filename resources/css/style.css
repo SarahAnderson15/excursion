@@ -1,30 +1,35 @@
-body{
+body {
   background-color: black;
   text-align: center;
 }
-h1{
+
+h1 {
   font-family: Verdana;
   font-weight: normal;
   color: white;
   text-align: center;
   font-size: 50px;
 }
-a{
+
+a {
   color: Aquamarine;
   font-size: 16px;
 }
-p{
- font-family:Verdana;
- font-size:21px;
- color: Gray;
+
+p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
 }
-h2{
-  font-family:Verdana;
+
+h2 {
+  font-family: Verdana;
   font-weight: 300;
-  font-size:42px;
-  color:white;
+  font-size: 24px; 
+  color: white;
 }
-img{
-   display: block;
+
+img {
+  display: block;
   margin: 0 auto;
 }
